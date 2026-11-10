@@ -1,0 +1,6 @@
+__pycache__/
+feat/
+figs/
+SolCuration/
+*.log
+log_*.txt
