@@ -2,7 +2,7 @@
 
 Code and results for
 
-> Qurat-ul-Ain and A.R. Nizami. Machine Learning with Element-Specific Persistent Homology for Physicochemical Property Prediction. Submitted to *Proceedings of the Pakistan Academy of Sciences: Part A*.
+> Qurat-ul-Ain and A.R. Nizami. Element-Specific Persistent Homology Descriptors for Predictive Modelling. Submitted to *Proceedings of the Pakistan Academy of Sciences: Part A*.
 
 Corresponding author: Qurat-ul-Ain, Department of Mathematics, University of Central Punjab, Lahore, Pakistan (quratulain@ucp.edu.pk).
 
